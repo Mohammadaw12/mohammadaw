@@ -1,0 +1,36 @@
+﻿body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url("https://th.bing.com/th/id/R.4e01944c85af63002b980fcd31e48c71?rik=umBQS%2fxCgDUz0w&riu=http%3a%2f%2fwww.maximumwall.com%2fwp-content%2fuploads%2f2016%2f12%2ffond-ecran-wallpaper-image-fonds-ecran-abstrait-noir-et-blanc-15.jpg&ehk=hdm46aa4lq1QNM5fzx5AcUX53im%2beS3M%2bk2jAPB1u6Q%3d&risl=&pid=ImgRaw&r=0")")
+}
+.header {
+    background-color: #287265;
+    height: 80px;
+    margin: 10px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+ul li a{
+    color: #fff;
+    letter-spacing: 0.1rem; 
+
+}
+ul li a:hover{
+    color: #ffd358; 
+    text-decoration: underline;
+
+}
+.menu li{
+    float: left;
+    padding:35px;
+
+}
+.menu li a{
+    text-decoration: none;
+}
+p{
+    font-size:20px;
+}
